@@ -3,11 +3,11 @@ Hey friends and thanks for the great feedback so far. As promised, I will publis
 of JavaScript ES6 and sneaking into the devtools.
 
 ## 💞💞💞💞 Sharing is caring 🙌🙌🙌
-<a href="https://www.patreon.com/bePatron?u=18829943" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=18829943" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 So I created a little [patreon page](https://www.patreon.com/join/sourcewars?) and if you like you could donate a little bit of your bucks. All the money will be collected and donated over to an NPO (non-profit-organization/charity) to help other people. So code should always do good things to the people. 👏👏 We will make a vote together where we would like to donate the collected money! 👏👏
 
-<a href="https://www.patreon.com/bePatron?u=18829943" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=18829943" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 ## How to use ? ⛑️
 To execute the script you need to visit your LinkedIn profile, visiting your [My Network](https://www.linkedin.com/mynetwork/) area and click on [Manage all](https://www.linkedin.com/mynetwork/invitation-manager/) in the upper right corner. Then you need to open up your JavaScript console, pasting in the snippet and press <kbd>ENTER ⏎</kbd> ☑️
@@ -24,7 +24,7 @@ To execute the script you need to visit your LinkedIn profile, visiting your [My
 
 And this is the way how it should work.
 
-/linkedin-tools-remove-recruiter-spam.gif
+![script in action 🚀](linkedin-tools-remove-recruiter-spam.gif)
 
 ## More to come - roadmap 🚗
 - clean up contact list with filters for special recruiter friends 😎
